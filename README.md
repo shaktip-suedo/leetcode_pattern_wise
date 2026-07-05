@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0560-subarray-sum-equals-k) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0560-subarray-sum-equals-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0056-merge-intervals) |
+## Sliding Window
+|  |
+| ------- |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
