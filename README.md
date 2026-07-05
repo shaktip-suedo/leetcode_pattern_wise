@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0057-insert-interval) |
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0560-subarray-sum-equals-k) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
