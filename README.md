@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0128-longest-consecutive-sequence) |
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 ## Hash Table
 |  |
