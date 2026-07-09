@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
