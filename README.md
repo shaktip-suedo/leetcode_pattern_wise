@@ -81,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0620-not-boring-movies) |
 | [1527-patients-with-a-condition](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
