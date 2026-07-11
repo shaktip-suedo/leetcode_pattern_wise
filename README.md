@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
 | [0554-brick-wall](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
@@ -88,8 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
