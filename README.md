@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0503-next-greater-element-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0962-maximum-width-ramp](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0962-maximum-width-ramp) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
