@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0345-reverse-vowels-of-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
