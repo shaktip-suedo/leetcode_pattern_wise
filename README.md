@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 | [1331-rank-transform-of-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0345-reverse-vowels-of-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3499-maximize-active-section-with-trade-i) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
