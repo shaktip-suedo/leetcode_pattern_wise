@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0345-reverse-vowels-of-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0962-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1944-number-of-visible-people-in-a-queue) |
