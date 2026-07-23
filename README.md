@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0345-reverse-vowels-of-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -162,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
