@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
