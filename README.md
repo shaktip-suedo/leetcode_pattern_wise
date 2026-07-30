@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0057-insert-interval) |
@@ -233,5 +234,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0532-k-diff-pairs-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
