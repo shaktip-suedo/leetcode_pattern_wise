@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0503-next-greater-element-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0739-daily-temperatures) |
@@ -249,10 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
