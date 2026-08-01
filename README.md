@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1185-day-of-the-week](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1185-day-of-the-week) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
