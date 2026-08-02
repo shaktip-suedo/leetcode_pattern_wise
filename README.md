@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0962-maximum-width-ramp) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1185-day-of-the-week](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1185-day-of-the-week) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0907-sum-of-subarray-minimums) |
 ## Number Theory
 |  |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
