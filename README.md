@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0290-word-pattern) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0678-valid-parenthesis-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0227-basic-calculator-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0503-next-greater-element-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
