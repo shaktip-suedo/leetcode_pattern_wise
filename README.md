@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0227-basic-calculator-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -264,11 +266,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
