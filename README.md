@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0227-basic-calculator-ii) |
+| [0441-arranging-coins](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Divide and Conquer
 |  |
