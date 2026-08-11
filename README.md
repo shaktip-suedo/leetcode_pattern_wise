@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0227-basic-calculator-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0069-sqrtx) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
