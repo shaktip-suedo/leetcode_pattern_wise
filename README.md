@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1598-crawler-log-folder](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1598-crawler-log-folder) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
