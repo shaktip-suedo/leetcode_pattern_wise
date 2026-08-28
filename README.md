@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0503-next-greater-element-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0962-maximum-width-ramp) |
