@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1598-crawler-log-folder) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
