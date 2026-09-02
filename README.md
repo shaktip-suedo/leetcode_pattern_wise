@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3875-construct-uniform-parity-array-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Matrix
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3875-construct-uniform-parity-array-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4022-k-th-digit-in-infinite-string) |
 ## String
