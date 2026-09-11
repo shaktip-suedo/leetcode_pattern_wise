@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3875-construct-uniform-parity-array-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1331-rank-transform-of-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Greedy
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
