@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0907-sum-of-subarray-minimums) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Number Theory
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Divide and Conquer
 |  |
