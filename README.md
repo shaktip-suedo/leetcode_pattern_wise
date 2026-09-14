@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0227-basic-calculator-ii) |
 | [0441-arranging-coins](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1185-day-of-the-week](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1185-day-of-the-week) |
@@ -404,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0056-merge-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
