@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1598-crawler-log-folder](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1598-crawler-log-folder) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0907-sum-of-subarray-minimums) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Number Theory
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Divide and Conquer
