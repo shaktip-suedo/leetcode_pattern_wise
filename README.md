@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Two Pointers
