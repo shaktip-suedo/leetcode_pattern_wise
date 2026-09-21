@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0386-lexicographical-numbers) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -434,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
