@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1598-crawler-log-folder](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1598-crawler-log-folder) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3483-unique-3-digit-even-numbers) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Divide and Conquer
