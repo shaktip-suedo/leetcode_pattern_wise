@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
