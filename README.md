@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0283-move-zeroes) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Quicksort
 |  |
