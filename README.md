@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0867-transpose-matrix) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0907-sum-of-subarray-minimums) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
