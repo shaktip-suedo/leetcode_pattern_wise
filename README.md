@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0187-repeated-dna-sequences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0290-word-pattern) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0214-shortest-palindrome) |
 ## Manacher
 |  |
@@ -439,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -479,4 +485,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
