@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0951-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0733-flood-fill) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0951-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0226-invert-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/0951-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Game Theory
 |  |
