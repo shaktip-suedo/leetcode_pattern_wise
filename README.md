@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3731-find-missing-elements) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
