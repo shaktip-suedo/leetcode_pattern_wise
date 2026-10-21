@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Two Pointers
 |  |
