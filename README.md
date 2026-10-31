@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3875-construct-uniform-parity-array-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1914-cyclically-rotating-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2965-find-missing-and-repeated-values) |
+| [3665-twisted-mirror-path-count](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3665-twisted-mirror-path-count](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3665-twisted-mirror-path-count) |
 ## Number Theory
 |  |
 | ------- |
