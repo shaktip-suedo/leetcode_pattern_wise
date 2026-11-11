@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3875-construct-uniform-parity-array-i) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/shaktip-suedo/leetcode_pattern_wise/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Recursion
 |  |
